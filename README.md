@@ -1,2 +1,2 @@
-# app_console_imc_dart
- Resolução do Desafio da DIO do Bootcamp Santander 2023: Criando uma Calculadora de IMC Com Flutter
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
